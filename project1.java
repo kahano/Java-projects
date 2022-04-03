@@ -1,0 +1,4 @@
+class Oblig1{
+
+
+}
